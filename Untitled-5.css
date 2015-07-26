@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { margin:0 0 0 0;
+padding:0 0 0 0;
+	}
+	
+body a{ color:#646363; text-decoration:none;}
+
+#main { width:700px; height:840px; border-left:1px #939393 solid; border-right:1px #939393 solid;  margin:0 auto;}
+
+
+
+#head { margin:0 10px 0 10px;}
+
+#h11 { background-color:#F2F2F2; width:680px; height:20px;}
+
+#h12 { background-image:url(logo.gif); width:192px; height:49px;  float:left;  margin:5px 0 0 0;
+	}
+	
+#h121 { margin:5px 0 0 0; float:left; height:50px; width:470px;  }
+
+#h121 p{ color:#6C7C93; float:left; display:block; margin:20px 15px 0 5px; font-size:14px;}
+
+#obortka1 { width:680px; height:60px; border-top:5px #F2F2F2 solid; border-bottom: 5px #A7B8CB solid; margin:5px 0 0 0;
+}
+
+#poisk { width:680px; height:60px; background-color:#85B1DE;
+margin:5px 0 0 0; }
+
+#poisk img { margin:10px 0 0 0;float:left;;
+	}
+	
+#poisk form{ float:left; margin:19px 10px 0 50px;  }
+
+#poisk button { margin:0px 0 0 20px;
+	}	
+
+#spisok { float:left;}
+
+#spisok ul { margin:10px 0 0 30px; color:#000000}
+
+#spisok p{  color:#6A648E; }
+
+#texnad1 { color:#D5D5D5; text-align:center; border-bottom:1px #D5D5D5 solid; margin:0 10px 0 10px; }
+
+#zagalovok { background-color:#D5D5D5; margin:5px 10px 0 10px; height:30px;}
+
+#zagalovok p { padding:5px 0 0 10px; color:#635D5D}
+
+#tabliz { background-color:#EFEFEF; width:680px; margin:0 auto; }
+
+table {border-color:#D5D5D5;}
+
+table p{ padding:5px 0 0 20px}
+table h4{ padding:10px 0 0 20px}
+
+/***reklama***/
+
+#reklama { width:680px; margin:0 auto; height:260px; background-color:#FFFFFF;}
+
+#headtex1 {border:1px solid #000000;}
+
+#lefter { width:30%; float:left; margin:10px 20px 0 0; 
+	}
+#lefter p{ background-color:#8BA6C1; padding:0 0 0 10px; }
+
+#zagalovrait {border:1px solid #000000;}
+
+#raiter { width:65%; float:left; margin:10px 10px 0 0; 
+	}
+#raiter p{ background-color:#8BA6C1; padding:0 0 0 10px; }
+
+#tax1 {margin:10px 0 0 0; float:left;}
+
+#tax1 p{ background-color:#FFFFFF; }
+
+#img1 img{ widows:67px; height:38px; float:left; margin:10px 0 0 20px;}
+
+#tax1 a{ color:#FF9900; text-decoration:underline; padding:0 0 0 10px}
+
+#obertblok1 { border-bottom:#AFAFAF solid 1px; overflow:hidden;}
+
+#poisk11 p{ background-color:#E5E5E5; padding:10px 0 10px 5px; font-size:14px;}
+
+#poisk11 { background-color:#E5E5E5;  overflow:hidden; height:70px;}
+
+#poisk11 form{ margin:0px 0 0 10px;}
+
+#tax2 ul{ float:left; display:block; margin:10px 20px 10px 20px; padding:0px 0 0 40px;}
+
+#lefbaber { background-image:url(banner1.jpg); overflow:hidden; width:194px;
+height:145px; float:left; margin:0px 30px 0 10px;}
+
+#raiterbaner{ background-image:url(banner2.jpg); overflow:hidden; width:197px; height:145px; float:left;}
+
+#reklama { border-bottom:6px solid #C8C8C8;}
+
+/**footer**/
+#footerniz { background-color:#E9E9E9; height:87px; margin:5px 10px 0 10px; overflow:hidden; border-left:1px #000000 solid; border-right:1px #000000 solid; border-top:1px #000000 solid;}
+#footerniz p { text-align:center; padding:5px 0 0 0;}
+
+#footer{ text-align:center; margin:10px 0 10px 0;}
